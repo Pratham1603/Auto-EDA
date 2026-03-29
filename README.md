@@ -205,7 +205,7 @@ pip install -r requirements.txt
 ### 🚀 Live Streamlit Application
 
 Access the deployed app here:
-[[Try](https://auto-eda-profilier.streamlit.app/)]
+[ Click Here to access (https://auto-eda-profilier.streamlit.app/)]
 
 ### 📖 Medium Blog (Detailed Project Explanation)
 
