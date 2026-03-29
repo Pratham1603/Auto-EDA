@@ -20,7 +20,31 @@ The complete workflow covers automatic column type detection, statistical profil
 
 ### Dashboard Interface
 
-![App Preview](images/app_preview.png)
+![App Preview](images/1.png)
+
+### Overview
+
+![App Preview](images/2.png)
+
+### Variables
+
+![App Preview](images/3.png)
+
+### Interaction
+
+![App Preview](images/4.png)
+
+### Correlation
+
+![App Preview](images/5.png)
+
+### Missing Values
+
+![App Preview](images/6.png)
+
+### Sample
+
+![App Preview](images/7.png)
 
 ---
 
