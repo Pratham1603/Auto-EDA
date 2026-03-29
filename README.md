@@ -1,4 +1,4 @@
-<h1 align="center">AUTO-EDA</h1>
+<h1 align="center">📊 AUTO-EDA</h1>
 
 ---
 
