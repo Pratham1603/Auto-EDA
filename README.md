@@ -210,7 +210,7 @@ Access the deployed app here:
 ### 📖 Medium Blog (Detailed Project Explanation)
 
 Read the full case study here:
-[Add Medium Blog Link Here]
+[ Click Here to read ](https://medium.com/@prathamharer1603/i-built-my-own-data-profiling-tool-auto-eda-heres-how-it-works-37fe14c6acbf)
 
 ### 📊 Project Presentation (PPT Slides)
 
