@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/auto-eda.jpg" alt="WhatsApp Chat Analyzer" width="1000"/>
+  <img src="images/autoeda.jpg" alt="WhatsApp Chat Analyzer" width="1000"/>
 </p>
 
 
