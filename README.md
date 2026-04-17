@@ -1,8 +1,11 @@
-<h1 align="center">📊 AUTO-EDA</h1>
+<p align="center">
+  <img src="images/auto-eda.jpg" alt="WhatsApp Chat Analyzer" width="1000"/>
+</p>
+
 
 ---
 
-<h2 align="center">Automated Exploratory Data Analysis Web Application</h2>
+<h3 align="center">Automated Exploratory Data Analysis Web Application</h3>
 
 ---
 
